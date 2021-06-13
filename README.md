@@ -18,10 +18,11 @@
 
   # Usage
   Visit https://vidfinnxnote.herokuapp.com/notes
+  
   ![NoteTaker2](https://user-images.githubusercontent.com/79023746/121824028-f935a780-cc5d-11eb-83df-3671cfef22ea.gif)
 
   
-  -To Start Open a Terminal->`Node server.js` or `Npm run start` *Local Testing Only*
+  - *Local Testing Only* Open a Terminal->`Node server.js` or `Npm run start` 
     
   # Contribution
   Anyone can contribute
