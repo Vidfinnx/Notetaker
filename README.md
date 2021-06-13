@@ -7,25 +7,30 @@
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Test Instructions](#test-instructions)
-  - [Contact Information For Questions](#Questions?)
+  - [Contact Information For Questions](#questions)
   # Description
   Simple place to store your notes and retrieve them later using `Express` and `Node.Js`
   # Installation
   Clone Git Repository
 
-  - Npm install `Express`
+  - `Npm install express`
 
-  - To Start Open a Terminal->Node server.js or Npm run start
 
   # Usage
-  Visit
+  Visit https://vidfinnxnote.herokuapp.com/notes
+  ![NoteTaker2](https://user-images.githubusercontent.com/79023746/121824028-f935a780-cc5d-11eb-83df-3671cfef22ea.gif)
+
+  
+  -To Start Open a Terminal->`Node server.js` or `Npm run start` *Local Testing Only*
+    
   # Contribution
   Anyone can contribute
   # Test-Instructions
   Visit http://localhost:7777 for localized testing
   # License
   None
-  # Questions?
+  
+  # Questions
   Contact Me: Vidfinnx@yahoo.com
 
   My Github Page: https://github.com/Vidfinnx
